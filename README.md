@@ -42,4 +42,4 @@ You can click the Preview link to take a look at your changes.
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
-![stats](https://github-readme-stats.vercel.app/api?username=softdev112&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=softdev112&show_icons=true&count_private=true&title_color=f7d745&count_private=true&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)

@@ -2,7 +2,7 @@
 softdev112/softdev112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, 𝗜'𝗺 Joseph
+# 👋 Hi, 𝗜'𝗺 a Senior React / React Native Developer
 
 [![](https://img.shields.io/badge/-@softdev112-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/softdev112)
 [![](https://img.shields.io/badge/-@softdev112-%23181717?style=flat-square&logo=github)](https://github.com/softdev112)
